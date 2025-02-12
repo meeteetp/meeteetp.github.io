@@ -10,4 +10,4 @@ How taking classes with late-semester exams can help boost your grade.
 ## [Apinihan Enterprise Resource Planning](https://github.com/meeteetp/Apinihan)
 Apinihan is an ERP software for event management made with .NET Visual Basic.
 
-<img src="me.jpeg" alt="tanawat" width="50%">
+<img src="me.jpeg" alt="tanawat" width="25%">
